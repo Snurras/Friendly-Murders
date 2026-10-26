@@ -23,8 +23,8 @@ export default function App() {
 
   return (
     <main className="screen">
-      <h1>Friendly Murders</h1>
-      <p className="tagline">One of your friends is a murderer.</p>
+      <h1>Bobby vs Bots</h1>
+      <p className="tagline">Some of you are not who you seem. Find the Bots.</p>
 
       {!isFirebaseConfigured && (
         <p className="notice">Firebase is not configured. Copy .env.example to .env.local and fill it in.</p>

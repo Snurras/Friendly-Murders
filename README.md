@@ -1,6 +1,6 @@
-# Friendly Murders
+# Bobby vs Bots
 
-A browser party game inspired by The Traitors, played at the dinner table without a game master. Everyone plays on their own phone; the app runs the phases, hands out roles (Friend or Murderer), collects kills and votes, and reveals results.
+A browser party game inspired by The Traitors, played at the dinner table without a game master. A few players are secretly Bots hiding among the humans (the Bobbies). Everyone plays on their own phone; the app runs the phases, hands out roles (Bobby or Bot), collects eliminations and votes, and reveals results.
 
 ## Stack
 
